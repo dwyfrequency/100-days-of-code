@@ -1,20 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: April 10, 2018 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished FCC Responsive Web Design Section | Completed Personal Portfolio Webpage: added form to contact me at the bottom of the page and added the icons to link to my social media. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Getting better with using media queries and flexbox. I was a little rusty on my forms. I should start doing more practice with them. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Completed Personal Portfolio Webpage](https://codepen.io/jdwy215/pen/dmKmWZ)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: April 10, 2018 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started Wes Bos's Grid Course
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Grid is going to be a challenge. Looking forward to working more with it. 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
