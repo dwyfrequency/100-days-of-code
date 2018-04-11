@@ -12,11 +12,11 @@
 ### Day 0: April 10, 2018 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Started Wes Bos's Grid Course
+**Today's Progress**: Started Wes Bos's Grid Course. Downloaded/configured Visual Studios to use WSL, installed node, general config
 
-**Thoughts**: Grid is going to be a challenge. Looking forward to working more with it. 
+**Thoughts**: Finished all the configGrid is going to be a challenge. Looking forward to working more with it. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Config Setup for Grid](https://github.com/dwyfrequency/css-grid-1/blob/master/02%20-%20Starter%20Files%20and%20Tooling%20Setup/test-START.html)
 
 
 ### Day 1: June 27, Monday
