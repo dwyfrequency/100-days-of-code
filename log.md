@@ -19,12 +19,21 @@
 **Link(s) to work**: [Config Setup for Grid](https://github.com/dwyfrequency/css-grid-1/blob/master/02%20-%20Starter%20Files%20and%20Tooling%20Setup/test-START.html)
 
 
-### Day 1: June 27, Monday
+### Day 1: April 11, 2018 (Example 1)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Worked on FCC Intermediate Algorithm Scripting challenges
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I saved the toughest for last. Looks like it's an 80 20, 80% of my time will be spent on 20% of the problems. I spent a decent bit of time on the [Telephone Number Validator](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/telephone-number-validator), but couldnt complete it 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Intermediate Algorithm Scripting: DNA Pairing](https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/dna-pairing)
+
+### Day 1: April 11, 2018 (Example 1)
+
+**Today's Progress**: Working through the beginning of Wes Bos's Grid Course 
+
+**Thoughts** Hammering the fundamentals! Looking forward to building some cool projects with grid. Interested to see how flex box and grid work together
+
+**Link(s) to work**
+1. [Grid Repo](https://github.com/dwyfrequency/css-grid-1)
+
