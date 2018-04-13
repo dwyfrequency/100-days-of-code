@@ -28,7 +28,7 @@
 **Link(s) to work**
 1. [Intermediate Algorithm Scripting: DNA Pairing](https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/dna-pairing)
 
-### Day 1: April 11, 2018 (Example 1)
+### Day 1: April 11, 2018 (Example 2)
 
 **Today's Progress**: Working through the beginning of Wes Bos's Grid Course 
 
@@ -36,4 +36,13 @@
 
 **Link(s) to work**
 1. [Grid Repo](https://github.com/dwyfrequency/css-grid-1)
+
+### Day 2: April 12, 2018 (Example 1)
+
+**Today's Progress**: Worked on FCC JavaScript Algorithms and Data Structures Projects
+
+**Thoughts** This was a mind bending amount of regex. I'll definitely have to review the solutions and see how else it could be accomplished. I spent longer than I'd like to admit on this.
+
+1. [Telephone Number Validator](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
+
 
