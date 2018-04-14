@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 10, 2018 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 10, 2018
 
 **Today's Progress**: Finished FCC Responsive Web Design Section | Completed Personal Portfolio Webpage: added form to contact me at the bottom of the page and added the icons to link to my social media. 
 
@@ -10,7 +9,6 @@
 **Link to work:** [Completed Personal Portfolio Webpage](https://codepen.io/jdwy215/pen/dmKmWZ)
 
 ### Day 0: April 10, 2018 (Example 2)
-##### (delete me or comment me out)
 
 **Today's Progress**: Started Wes Bos's Grid Course. Downloaded/configured Visual Studios to use WSL, installed node, general config
 
@@ -52,4 +50,13 @@
 **Thoughts** Jeez regex can be tricky - going to need to spend a bit more time with it. In other news, the grid course is picking up. 
 
 1. [Grid Span Cardio](https://github.com/dwyfrequency/css-grid-1/tree/master/11%20-%20Spanning%20and%20Placing%20Cardio)
+
+### Day 4: April 14, 2018 (Example 1)
+
+**Today's Progress**: Completed Caesar Cipher 
+
+**Thoughts** Hit some roadblocks, but ultimately completed it. I found that writing out notes on paper and trying to understand the wrap around helped. Thank you modulo operator. I'll have to spend more time understanding when to use it. It's very helpful and applicable to multiple algos  
+
+1. [Caesar Cipher](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/caesars-cipher)
+
 
