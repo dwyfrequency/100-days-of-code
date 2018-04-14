@@ -45,4 +45,11 @@
 
 1. [Telephone Number Validator](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
 
+### Day 2: April 12, 2018 (Example 1)
+
+**Today's Progress**: Spent Time Reviewing Regex & Working on Grid Course
+
+**Thoughts** Jeez regex can be tricky - going to need to spend a bit more time with it. In other news, the grid course is picking up. 
+
+1. [Grid Span Cardio](https://github.com/dwyfrequency/css-grid-1/tree/master/11%20-%20Spanning%20and%20Placing%20Cardio)
 
