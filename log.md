@@ -59,4 +59,11 @@
 
 1. [Caesar Cipher](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/caesars-cipher)
 
+### Day 4: April 14, 2018 (Example 1)
+
+**Today's Progress**: Mostly Focussed on Dom Manipulation 
+
+**Thoughts** Really interesting to see my js actually change the content and layout of a website. Once I finish the fundamentals, I'll return to the grid course. I took a slight detour back to udemy because the grid course was going to use some dom stuff. 
+Takeaways: not sure why you would use other selectors except for querySelector and querySelectorAll.
+
 
