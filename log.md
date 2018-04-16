@@ -59,7 +59,7 @@
 
 1. [Caesar Cipher](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/caesars-cipher)
 
-### Day 4: April 14, 2018 (Example 1)
+### Day 5: April 14, 2018 (Example 1)
 
 **Today's Progress**: Mostly Focussed on Dom Manipulation 
 
