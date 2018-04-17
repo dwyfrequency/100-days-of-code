@@ -66,7 +66,7 @@
 **Thoughts** Really interesting to see my js actually change the content and layout of a website. Once I finish the fundamentals, I'll return to the grid course. I took a slight detour back to udemy because the grid course was going to use some dom stuff. 
 Takeaways: not sure why you would use other selectors except for querySelector and querySelectorAll.
 
-### Day 5: April 14, 2018 (Example 1)
+### Day 6: April 14, 2018 (Example 1)
 
 **Today's Progress**: Finished FCC Challenge Smallest Common Multiple
 
@@ -74,7 +74,7 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 
 1. [SMC](https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/smallest-common-multiple)
 
-### Day 5: April 14, 2018 (Example 2)
+### Day 6: April 14, 2018 (Example 2)
 
 **Today's Progress**: Worked on Colt's Dom Manipulation Section
 
