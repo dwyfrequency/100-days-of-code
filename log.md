@@ -70,7 +70,7 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 
 **Today's Progress**: Finished FCC Challenge Smallest Common Multiple
 
-**Thoughts** Need to refactor - my solution can improved.
+**Thoughts** Need to refactor - my solution can be improved.
 
 1. [SMC](https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/smallest-common-multiple)
 
