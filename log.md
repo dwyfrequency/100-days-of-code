@@ -81,3 +81,12 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 **Thoughts** Oh boy, I got caught in a time suck involving this and arrow syntax. I still dont fully get it so more reasearch to come. 
 
 1. [this is confusing](https://stackoverflow.com/questions/31095710/methods-in-es6-objects-using-arrow-functions)
+
+
+### Day 7: April 14, 2018 (Example 1)
+
+**Today's Progress**: Worked on Colt's Dom Manipulation Section
+
+**Thoughts** this in js is pretty dang confusing - going to have to look more into lexical scope  
+
+1. [this is confusing pt. 2](https://stackoverflow.com/questions/31095710/methods-in-es6-objects-using-arrow-functions)
