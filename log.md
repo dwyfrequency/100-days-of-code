@@ -90,3 +90,16 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 **Thoughts** this in js is pretty dang confusing - going to have to look more into lexical scope  
 
 1. [this is confusing pt. 2](https://stackoverflow.com/questions/31095710/methods-in-es6-objects-using-arrow-functions)
+
+
+
+### Day 8: April 14, 2018 (Example 1)
+
+**Today's Progress**: 
+- Finished an FCC challenge
+- Finally broke through on understanding when and when not to use arrow syntax
+- Played around with dom manipulation
+
+**Thoughts** thank you internet! after many google searches, [this article](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/) saved the day. 
+
+1. [FCC Map-The-Debris] https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/map-the-debris
