@@ -103,3 +103,13 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 **Thoughts** thank you internet! after many google searches, [this article](https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/) saved the day. 
 
 1. [FCC Map-The-Debris] https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/map-the-debris
+
+### Day 9: April 14, 2018 (Example 1)
+
+**Today's Progress**: 
+- Finished my final Intermediate Algorithm Scripting FCC challenge
+- Further exploration of dom manipulation
+
+**Thoughts** Chugging along on FCC - looking forward to taking on the remaining js projects. Regarding Dom manipulation, I'm really enjoying dynamically changing websites. 
+
+1. [FCC Map-The-Debris] https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/map-the-debris
