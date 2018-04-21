@@ -113,3 +113,14 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 **Thoughts** Chugging along on FCC - looking forward to taking on the remaining js projects. Regarding Dom manipulation, I'm really enjoying dynamically changing websites. 
 
 1. [FCC Decode Binary Strings](https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/binary-agents)
+
+### Day 10: April 14, 2018 (Example 1)
+
+**Today's Progress**: 
+- Finished Roman Numeral FCC challenge
+- Further exploration of dom manipulation
+
+**Thoughts** Chugging along on FCC - modulo operator is so useful. I should review all of the scripting answers before proceding to any of the front end libraries. One last challenge to go === Cash Register
+
+1. [FCC Roman Numeral Converter](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
+
