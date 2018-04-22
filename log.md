@@ -59,14 +59,14 @@
 
 1. [Caesar Cipher](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/caesars-cipher)
 
-### Day 5: April 14, 2018 (Example 1)
+### Day 5: April 15, 2018 (Example 1)
 
 **Today's Progress**: Mostly Focussed on Dom Manipulation 
 
 **Thoughts** Really interesting to see my js actually change the content and layout of a website. Once I finish the fundamentals, I'll return to the grid course. I took a slight detour back to udemy because the grid course was going to use some dom stuff. 
 Takeaways: not sure why you would use other selectors except for querySelector and querySelectorAll.
 
-### Day 6: April 14, 2018 (Example 1)
+### Day 6: April 16, 2018 (Example 1)
 
 **Today's Progress**: Finished FCC Challenge Smallest Common Multiple
 
@@ -74,7 +74,7 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 
 1. [SMC](https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/smallest-common-multiple)
 
-### Day 6: April 14, 2018 (Example 2)
+### Day 6: April 16, 2018 (Example 2)
 
 **Today's Progress**: Worked on Colt's Dom Manipulation Section
 
@@ -83,7 +83,7 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 1. [this is confusing](https://stackoverflow.com/questions/31095710/methods-in-es6-objects-using-arrow-functions)
 
 
-### Day 7: April 14, 2018 (Example 1)
+### Day 7: April 17, 2018 (Example 1)
 
 **Today's Progress**: Worked on Colt's Dom Manipulation Section
 
@@ -93,7 +93,7 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 
 
 
-### Day 8: April 14, 2018 (Example 1)
+### Day 8: April 18, 2018 (Example 1)
 
 **Today's Progress**: 
 - Finished an FCC challenge
@@ -104,7 +104,7 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 
 1. [FCC Map-The-Debris](https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/map-the-debris)
 
-### Day 9: April 14, 2018 (Example 1)
+### Day 9: April 19, 2018 (Example 1)
 
 **Today's Progress**: 
 - Finished my final Intermediate Algorithm Scripting FCC challenge
@@ -114,7 +114,7 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 
 1. [FCC Decode Binary Strings](https://beta.freecodecamp.org/en/challenges/intermediate-algorithm-scripting/binary-agents)
 
-### Day 10: April 14, 2018 (Example 1)
+### Day 10: April 20, 2018 (Example 1)
 
 **Today's Progress**: 
 - Finished Roman Numeral FCC challenge
@@ -123,4 +123,15 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 **Thoughts** Chugging along on FCC - modulo operator is so useful. I should review all of the scripting answers before proceding to any of the front end libraries. One last challenge to go === Cash Register
 
 1. [FCC Roman Numeral Converter](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
+
+### Day 11: April 21, 2018 (Example 1)
+
+**Today's Progress**: 
+- Finished Cash Register FCC challenge
+- Further exploration of dom manipulation
+
+**Thoughts** Finally finished FCC's JavaScript Algorithms and Data Structures Projects. I should review all of the scripting answers before proceding to any of the front end libraries. Regarding Dom manipulation, interesting stuff can be done. Finished my first real website that uses it.
+
+1. [FCC Cash Register](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/cash-register)
+
 
