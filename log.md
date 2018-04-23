@@ -134,4 +134,16 @@ Takeaways: not sure why you would use other selectors except for querySelector a
 
 1. [FCC Cash Register](https://beta.freecodecamp.org/en/challenges/javascript-algorithms-and-data-structures-projects/cash-register)
 
+### Day 12: April 22, 2018 (Example 1)
+
+**Today's Progress**: 
+- Working on Wes Bos's grid course
+- Finished up Advanced DOM Manipulation on Colt's Udemy Course
+
+**Thoughts** Didn't feel as productive today. That being said learned a lot about events in js. Using classlist to add and remove classes for elements is super useful. 
+Wes - Good to start building some websites again even if i am just following along. The power of grid is definitely evident. 
+
+1. [CSS Grid Image Gallery](https://courses.wesbos.com/account/access/5acd660242c2397eec31cd28/view/249560994)
+
+
 
