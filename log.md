@@ -145,5 +145,13 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [CSS Grid Image Gallery](https://courses.wesbos.com/account/access/5acd660242c2397eec31cd28/view/249560994)
 
+### Day 13: April 23, 2018 (Example 1)
 
+**Today's Progress**: 
+- Working on Wes Bos's grid course
+- Got to tinker with enter the void site
+
+**Thoughts** Want to find ways of combining grid and flexbox.
+
+1. [CSS Grid Image Gallery](https://github.com/dwyfrequency/css-grid-1/blob/master/20%20-%20CSS%20Grid%20Image%20Gallery/image-gallery-START.html)
 
