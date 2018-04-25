@@ -155,3 +155,12 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [CSS Grid Image Gallery](https://github.com/dwyfrequency/css-grid-1/blob/master/20%20-%20CSS%20Grid%20Image%20Gallery/image-gallery-START.html)
 
+### Day 14: April 24, 2018 (Example 1)
+
+**Today's Progress**: 
+- Still working on Wes Bos's grid course
+- Got to tinker with enter the void site. i want to add a grid component
+
+**Thoughts** Finding where to use grid and where to use flexbox. They seem pretty interchangable 
+
+1. [CSS Grid vs. Flexbox] (https://github.com/dwyfrequency/css-grid-1/tree/master/21%20-%20Flexbox%20vs%20CSS%20Grid)
