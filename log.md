@@ -164,3 +164,13 @@ Wes - Good to start building some websites again even if i am just following alo
 **Thoughts** Finding where to use grid and where to use flexbox. They seem pretty interchangable 
 
 1. [CSS Grid vs. Flexbox] (https://github.com/dwyfrequency/css-grid-1/tree/master/21%20-%20Flexbox%20vs%20CSS%20Grid)
+
+### Day 15: April 25, 2018 (Example 1)
+
+**Today's Progress**: 
+- Forgot to work on the grid course and spent most of my time with npm and how to get started with node.
+- The work today was mostly in FCC 
+
+**Thoughts** Finding where to use grid and where to use flexbox. They seem pretty interchangable 
+
+1. [npm] (https://beta.freecodecamp.org/en/challenges/managing-packages-with-npm/remove-a-package-from-your-dependencies)
