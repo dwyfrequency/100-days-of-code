@@ -203,7 +203,7 @@ Wes - Good to start building some websites again even if i am just following alo
 - Played around with recreating a grid site 
 
 
-**Thoughts** Lots to learn
+**Thoughts** Need to use width 100% to get your image to play nice in your grid. Placing text on top of your image can be hard. You will need to decide between loading the image via css background: url or the img html tag. The latter is more accessible, but can be  more annoying to work with.
 
 1. [Grid Practice - Img & Articles] (https://codepen.io/jdwy215/pen/JvEKRg?editors=1100)
 2. [grid vs flexbox pt 2] (https://github.com/dwyfrequency/css-grid-1/tree/master/21%20-%20Flexbox%20vs%20CSS%20Grid)
