@@ -184,3 +184,26 @@ Wes - Good to start building some websites again even if i am just following alo
 **Thoughts** Continued to focus on when/where to use grid or flexbox. 
 
 1. [grid vs flexbox] (https://github.com/dwyfrequency/css-grid-1/tree/master/21%20-%20Flexbox%20vs%20CSS%20Grid)
+
+### Day 17: April 27, 2018 (Example 1)
+
+**Today's Progress**: 
+- Most time was spent studying events and vanilla js
+
+**Thoughts** Lots to learn
+
+1. [Vanilla JS] (https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
+
+
+### Day 18: April 28, 2018 (Example 1)
+
+**Today's Progress**: 
+- Finished some grid excersises from wes's course 
+- Read about constructors and objects with eloquentjavascript
+- Played around with recreating a grid site 
+
+
+**Thoughts** Lots to learn
+
+1. [Grid Practice - Img & Articles] (https://codepen.io/jdwy215/pen/JvEKRg?editors=1100)
+2. [grid vs flexbox pt 2] (https://github.com/dwyfrequency/css-grid-1/tree/master/21%20-%20Flexbox%20vs%20CSS%20Grid)
