@@ -207,3 +207,16 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [Grid Practice - Img & Articles] (https://codepen.io/jdwy215/pen/JvEKRg?editors=1100)
 2. [grid vs flexbox pt 2] (https://github.com/dwyfrequency/css-grid-1/tree/master/21%20-%20Flexbox%20vs%20CSS%20Grid)
+
+### Day 19: April 29, 2018 (Example 1)
+
+**Today's Progress**: 
+- Finished drumkit from js30  
+- Read about constructors and objects with eloquentjavascript
+- Read and wrote some transitions and animations
+
+
+**Thoughts** Lots of CSS to learn. I need to continue to build on the foundations of CSS => Positioning, Transitions, Animations, Grid, Flexbox, etc. Need to learn more about dom manipulation as well 
+
+1. [Drum Kit] (https://github.com/dwyfrequency/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+2. [animations and transitions] (https://github.com/dwyfrequency/JavaScript30/tree/master/trav_media/anim_transition_crash)
