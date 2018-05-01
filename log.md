@@ -194,14 +194,12 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [Vanilla JS] (https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
 
-
 ### Day 18: April 28, 2018 (Example 1)
 
 **Today's Progress**: 
 - Finished some grid excersises from wes's course 
 - Read about constructors and objects with eloquentjavascript
 - Played around with recreating a grid site 
-
 
 **Thoughts** Need to use width 100% to get your image to play nice in your grid. Placing text on top of your image can be hard. You will need to decide between loading the image via css background: url or the img html tag. The latter is more accessible, but can be  more annoying to work with.
 
@@ -215,8 +213,22 @@ Wes - Good to start building some websites again even if i am just following alo
 - Read about constructors and objects with eloquentjavascript
 - Read and wrote some transitions and animations
 
-
 **Thoughts** Lots of CSS to learn. I need to continue to build on the foundations of CSS => Positioning, Transitions, Animations, Grid, Flexbox, etc. Need to learn more about dom manipulation as well 
 
 1. [Drum Kit] (https://github.com/dwyfrequency/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+2. [animations and transitions] (https://github.com/dwyfrequency/JavaScript30/tree/master/trav_media/anim_transition_crash)
+
+### Day 20: April 30, 2018 (Example 1)
+
+**Today's Progress**: 
+- Reviewed drumkit from js30
+- Finished clock from js30
+- Read about symbols and prototypes with eloquentjavascript
+- Read and wrote some transitions and animations in codepen
+
+**Thoughts** Still tons to learn in CSS land. I'm starting to get a better feel for animations and transitions. I get the feeling that there is a ton of power in css and that you can accomplish a decent bit without much js. 
+
+1. [Key Down Pen] (https://codepen.io/jdwy215/pen/WJpEvy)
+2. [Animations & Transitions Pen] (https://codepen.io/jdwy215/pen/QrpEZm)
+3. [JS & CSS Clock] (https://github.com/dwyfrequency/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START_V1.html)
 2. [animations and transitions] (https://github.com/dwyfrequency/JavaScript30/tree/master/trav_media/anim_transition_crash)
