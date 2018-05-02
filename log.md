@@ -232,3 +232,13 @@ Wes - Good to start building some websites again even if i am just following alo
 2. [Animations & Transitions Pen] (https://codepen.io/jdwy215/pen/QrpEZm)
 3. [JS & CSS Clock] (https://github.com/dwyfrequency/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START_V1.html)
 2. [animations and transitions] (https://github.com/dwyfrequency/JavaScript30/tree/master/trav_media/anim_transition_crash)
+
+### Day 21: May 1, 2018 (Example 1)
+
+**Today's Progress**: 
+- Array Cardio js30
+
+**Thoughts** Functional programming's gateway drug 
+1. [Array Cardio 2] (https://github.com/dwyfrequency/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
+
+
