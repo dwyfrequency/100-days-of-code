@@ -241,4 +241,13 @@ Wes - Good to start building some websites again even if i am just following alo
 **Thoughts** Functional programming's gateway drug 
 1. [Array Cardio 2] (https://github.com/dwyfrequency/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
 
+### Day 22: May 2, 2018 (Example 1)
 
+**Today's Progress**: 
+- Adjusted Cardio Day 2
+- Flex Panel Image Gallery 
+- Watched part of video for Ajax Type Ahead
+
+**Thoughts** Wes Bos's courses are awesome.
+1. [Array Cardio 2] (https://github.com/dwyfrequency/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
+2. [Flex Panel Image Gallery] (https://github.com/dwyfrequency/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
