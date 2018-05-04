@@ -251,3 +251,13 @@ Wes - Good to start building some websites again even if i am just following alo
 **Thoughts** Wes Bos's courses are awesome.
 1. [Array Cardio 2] (https://github.com/dwyfrequency/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
 2. [Flex Panel Image Gallery] (https://github.com/dwyfrequency/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+
+### Day 23: May 2, 2018 (Example 1)
+
+**Today's Progress**: 
+- Type Ahead project for js30
+- Introduction to the geolocation api 
+
+**Thoughts** Wes Bos's courses are awesome. I need to go through the css file on this project and see what i can borrow. Seems most of the pros use box shadows and transforms. Dom manipulation is continuing to prove vital. Also, geolocation api is neat. Looking forward to adding it to the Type Ahead proj.
+
+1. [Type Ahead] (https://github.com/dwyfrequency/JavaScript30/tree/master/06%20-%20Type%20Ahead)
