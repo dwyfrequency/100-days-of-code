@@ -270,3 +270,13 @@ Wes - Good to start building some websites again even if i am just following alo
 **Thoughts** It is so so so important to write tests for your software. 
 
 1. [Two-sum] (https://leetcode.com/problems/two-sum/)
+
+### Day 25: May 5, 2018 (Example 1)
+
+**Today's Progress**: 
+- Added geolocation to Type Ahead project for js30
+- 
+
+**Thoughts** 
+
+1. [Type Ahead] (https://github.com/dwyfrequency/JavaScript30/tree/master/06%20-%20Type%20Ahead)
