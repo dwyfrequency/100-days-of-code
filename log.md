@@ -280,3 +280,15 @@ Wes - Good to start building some websites again even if i am just following alo
 **Thoughts** 
 
 1. [Type Ahead] (https://github.com/dwyfrequency/JavaScript30/tree/master/06%20-%20Type%20Ahead)
+
+### Day 26: May 6, 2018 (Example 1)
+
+**Today's Progress**: 
+- Js30: Canvas, Shift Click, and Video Player
+
+**Thoughts** 
+- Got a bunch done today. I'll have to review the video player project, my attention was waning. I need to review ajax for my quote generator project 
+
+
+1. [Canvas, Shift Click, Video Player] (https://github.com/dwyfrequency/JavaScript30)
+2. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
