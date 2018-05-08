@@ -292,3 +292,15 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [Canvas, Shift Click, Video Player] (https://github.com/dwyfrequency/JavaScript30)
 2. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
+
+### Day 27: May 7, 2018 (Example 1)
+
+**Today's Progress**: 
+- FCC Quote Generator: 
+  Added ajax functionality to my quote generator 
+  Added some js to change colors when loading and clicked 
+
+**Thoughts** 
+- Sleepy...Need to learn more about the best practices of formating website from html to adding box-shadows 
+
+1. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
