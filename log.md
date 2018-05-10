@@ -304,3 +304,25 @@ Wes - Good to start building some websites again even if i am just following alo
 - Sleepy...Need to learn more about the best practices of formating website from html to adding box-shadows 
 
 1. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
+
+
+### Day 28: May 7, 2018 (Example 1)
+
+**Today's Progress**: 
+- Cornify
+
+**Thoughts** 
+- Sleepy
+
+1. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
+
+### Day 28: May 7, 2018 (Example 1)
+
+**Today's Progress**: 
+- Cornify
+
+**Thoughts** 
+- Sleepy. JavaScript Fetch with Request and Headers Objects 
+
+1. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
+
