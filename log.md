@@ -306,7 +306,7 @@ Wes - Good to start building some websites again even if i am just following alo
 1. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
 
 
-### Day 28: May 7, 2018 (Example 1)
+### Day 28: May 8, 2018 (Example 1)
 
 **Today's Progress**: 
 - Cornify
@@ -316,7 +316,7 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
 
-### Day 28: May 7, 2018 (Example 1)
+### Day 28: May 9, 2018 (Example 1)
 
 **Today's Progress**: 
 - Cornify
@@ -325,4 +325,14 @@ Wes - Good to start building some websites again even if i am just following alo
 - Sleepy. JavaScript Fetch with Request and Headers Objects 
 
 1. [Quote generator FCC] (https://codepen.io/jdwy215/pen/mLqbpW)
+
+### Day 30: May 10, 2018 (Example 1)
+
+**Today's Progress**: 
+- Struggled connecting some of the internal apis at work using fetch. Decided to take a deeper dive into node and the underlying tech behind http, cookies, session tokens, etc.
+
+**Thoughts** 
+- Talked about it above 
+
+1. [Node Tutorials] (https://www.youtube.com/watch?v=9UaZtgB5tQI&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=6)
 
