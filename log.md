@@ -336,3 +336,20 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [Node Tutorials] (https://www.youtube.com/watch?v=9UaZtgB5tQI&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=6)
 
+### Day 30: May 11, 2018 (Example 1)
+
+**Today's Progress**: 
+- Read more about modules 
+
+**Thoughts** 
+- None 
+
+1. [JS Modules Deep Dive] (https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+
+### Day 31: May 12, 2018 (Example 1)
+
+**Today's Progress**: 
+- JS 30 Scroll excersise 
+
+
+
