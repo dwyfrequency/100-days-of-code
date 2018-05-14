@@ -354,5 +354,15 @@ Wes - Good to start building some websites again even if i am just following alo
 **Thoughts** 
 - Review assignment. I want to learn more about webpack and modules. 
 
-1. [Slide In On Scroll] https://github.com/dwyfrequency/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll
+1. [Slide In On Scroll] (https://github.com/dwyfrequency/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
+
+### Day 32: May 12, 2018 (Example 1)
+
+**Today's Progress**: 
+- Pen with a little transformations on click 
+
+**Thoughts** 
+- Debugging css can be quite the rascal. Make sure you keep track of the padding and margin 
+
+1. [Transform burger on click] (https://codepen.io/jdwy215/pen/erKLYQ)
 
