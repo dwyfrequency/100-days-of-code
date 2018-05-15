@@ -336,7 +336,7 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [Node Tutorials] (https://www.youtube.com/watch?v=9UaZtgB5tQI&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=6)
 
-### Day 30: May 11, 2018 (Example 1)
+### Day 31: May 11, 2018 (Example 1)
 
 **Today's Progress**: 
 - Read more about modules 
@@ -346,7 +346,7 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [JS Modules Deep Dive] (https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
-### Day 31: May 12, 2018 (Example 1)
+### Day 32: May 13, 2018 (Example 1)
 
 **Today's Progress**: 
 - JS 30 Scroll excersise 
@@ -356,7 +356,17 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [Slide In On Scroll] (https://github.com/dwyfrequency/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
 
-### Day 32: May 12, 2018 (Example 1)
+### Day 33: May 14, 2018 (Example 1)
+
+**Today's Progress**: 
+- Pen with a little transformations on click 
+
+**Thoughts** 
+- Debugging css can be quite the rascal. Make sure you keep track of the padding and margin 
+
+1. [Transform burger on click] (https://codepen.io/jdwy215/pen/erKLYQ)
+
+### Day 34: May 15, 2018 (Example 1)
 
 **Today's Progress**: 
 - Pen with a little transformations on click 
