@@ -376,3 +376,24 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [Transform burger on click] (https://codepen.io/jdwy215/pen/erKLYQ)
 
+### Day 35: May 16, 2018 (Example 1)
+
+**Today's Progress**: 
+- Finished js30 exercise LocalStorage and started reading Node.js in action 2 
+
+**Thoughts** 
+- Tired
+
+1. [LocalStorage] (https://github.com/dwyfrequency/JavaScript30/tree/master/15%20-%20LocalStorage)
+
+### Day 36: May 16, 2018 (Example 1)
+
+**Today's Progress**: 
+- JS30 15, 17 and 18 
+
+**Thoughts** 
+- Learned more about using innerHTML. You can easily add list items to a ul. Played around with the reduce function for 18. Still need to get my minutes to resolve to hours. 
+When do you use the button vs input html tag? Added a select and unselect all buttons for my localstorage exc 
+
+1. [JS 30] (https://github.com/dwyfrequency/JavaScript30/tree/master/15%20-%20LocalStorage)
+
