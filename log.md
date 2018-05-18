@@ -386,7 +386,7 @@ Wes - Good to start building some websites again even if i am just following alo
 
 1. [LocalStorage] (https://github.com/dwyfrequency/JavaScript30/tree/master/15%20-%20LocalStorage)
 
-### Day 36: May 16, 2018 (Example 1)
+### Day 36: May 17, 2018 (Example 1)
 
 **Today's Progress**: 
 - JS30 15, 17 and 18 
