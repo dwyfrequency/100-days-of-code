@@ -397,3 +397,19 @@ When do you use the button vs input html tag? Added a select and unselect all bu
 
 1. [JS 30] (https://github.com/dwyfrequency/JavaScript30)
 
+### Day 37: May 17, 2018 (Example 1)
+
+Day 37: completed #javascript30's LocalStorage, Sort Without Articles, and Adding Up Times with Reduce today #100DaysOfCode
+
+### Day 38: May 18, 2018 (Example 1)
+
+Day 38: working more with higher order functions
+
+### Day 39: May 21, 2018 (Example 1)
+
+Day 39: started reading Functional Light JS
+
+### Day 40: May 21, 2018 (Example 1)
+Day 40: Minimum Steps (Array Series #6) kata 
+
+
